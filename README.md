@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Joey Chiu
+- 👋 Hi, I’m @Joey
 - 👀 I’m interested in ... swim
-- 🌱 I’m currently learning ... seo
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- born in-06/10/2005😀
+- i m a girl💕
 
 <!---
 jc899/jc899 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
